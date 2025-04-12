@@ -38,7 +38,7 @@ Je suis actuellement à la recherche d’une **alternance en développement web 
 
 ## 🔗 Me retrouver ailleurs
 
-- 🌐 [Portfolio]((https://www.vince-dev.fr/))
+- 🌐 [Portfolio](https://www.vince-dev.fr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vincent-silvestri-0b826a249/)
 - 💾 [MGF-backend](https://github.com/vincent-devFullStack/MGF-backend)
 - 💻 [MGF-frontend](https://github.com/vincent-devFullStack/MGF-frontend)
